@@ -1,4 +1,5 @@
 #!/bin/bash
+# Eu sou Tryber e..
 
 # Exercício 1 - 1.5
 echo "Shel Script é demais!"
